@@ -3,5 +3,6 @@
     "DiskImageFormat": "VMDK",
     "S3Bucket": "slac-cctv",
     "network": "PT-Network"
+    "network": "Kwame"
 }
 
